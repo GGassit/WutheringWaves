@@ -34,8 +34,5 @@
 deleted Map Teleport
 Fatal bug  Will cause the player to teleport underground.
 
-[## Contact
-QQ群：473740107](url)
-
 
 
