@@ -30,9 +30,12 @@
 - PlayerTimeDilation （attack speed Walkspeed）
 - WorldTimeDilation（Skip the plot）
 
-## Contact
-QQ群：473740107
-
+### Deleted
 deleted Map Teleport
 Fatal bug  Will cause the player to teleport underground.
+
+[## Contact
+QQ群：473740107](url)
+
+
 
