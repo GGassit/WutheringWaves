@@ -29,10 +29,15 @@
 - Mob Vacuum Actor
 - PlayerTimeDilation （attack speed Walkspeed）
 - WorldTimeDilation（Skip the plot）
+- Hit Multiplier
+- No cooldown
+- GodMode
 
 ### Deleted
 deleted Map Teleport
 Fatal bug  Will cause the player to teleport underground.
+### WW
+ESP has some class names that are not filtered.
 
 
 
