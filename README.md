@@ -29,9 +29,7 @@
 - Mob Vacuum Actor
 - PlayerTimeDilation （attack speed Walkspeed）
 - WorldTimeDilation（Skip the plot）
-- Hit Multiplier
-- No cooldown
-- GodMode
+
 
 ### Deleted
 deleted Map Teleport
