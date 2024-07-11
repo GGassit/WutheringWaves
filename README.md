@@ -38,6 +38,6 @@ Fatal bug  Will cause the player to teleport underground.
 ESP has some class names that are not filtered.
 
 ### contact
-None
+[None](https://discord.gg/874SwAvv)
 
 
