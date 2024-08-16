@@ -29,6 +29,7 @@
 - Mob Vacuum Actor
 - PlayerTimeDilation （attack speed Walkspeed）
 - WorldTimeDilation（Skip the plot）
+- MultiHit
 
 
 ### Deleted
