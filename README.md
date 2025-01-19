@@ -43,6 +43,5 @@
 ### 联系
 Discord： https://discord.gg/2HuwZeVWkW
 QQ群：473740107 
-b站：UID:484862059
 
 
